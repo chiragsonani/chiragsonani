@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Python Proects
 - 📫 Reach me out on LinkedIn: https://www.linkedin.com/in/chiragsonani/
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
 
 <!---
 chiragsonani/chiragsonani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
