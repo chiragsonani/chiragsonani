@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chiragsonani
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Python Proects
+- 💞️ I’m looking to collaborate on Python Proejects
 - 📫 Reach me out on LinkedIn: https://www.linkedin.com/in/chiragsonani/
 - 😄 Pronouns: He/Him
 
